@@ -4,7 +4,8 @@
 
 `用思维导图学 Python`
 
-![Python](https://github.com/Decalogue/PythonMindmap/blob/master/img/python.png "Python"){:height="50%" width="50%"}
+<img src="https://github.com/Decalogue/PythonMindmap/blob/master/img/python.png" width = "50%" height = "%50" alt="Python" align=center />
+![Python](https://github.com/Decalogue/PythonMindmap/blob/master/img/python.png "Python")
 
 `Copyright © 2017 Rain. All Rights Reserved.`
 

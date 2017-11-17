@@ -6,6 +6,10 @@
 
 ![Python](https://github.com/Decalogue/PythonMindmap/blob/master/img/python.png "Python")
 
+## Plan
+
+![plan](https://github.com/Decalogue/PythonMindmap/blob/master/img/plan.png "plan")
+
 ## 学习笔记——流畅的 Python
 
 ![fluent_python](https://github.com/Decalogue/PythonMindmap/blob/master/img/fluent_python/0.png "fluent_python")

@@ -10,7 +10,7 @@
 
 ![plan](https://github.com/Decalogue/PythonMindmap/blob/master/img/plan.png "plan")
 
-## [学习笔记——流畅的 Python](https://github.com/Decalogue/PythonMindmap/tree/master/fluent_python)
+## [学习笔记——流畅的 Python 👆](https://github.com/Decalogue/PythonMindmap/tree/master/fluent_python)
 
 ![fluent_python](https://github.com/Decalogue/PythonMindmap/blob/master/img/fluent_python/0.png "fluent_python")
 

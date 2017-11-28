@@ -10,21 +10,9 @@
 
 ![plan](https://github.com/Decalogue/PythonMindmap/blob/master/img/plan.png "plan")
 
-## 学习笔记——流畅的 Python
+## [学习笔记——流畅的 Python](https://github.com/Decalogue/PythonMindmap/tree/master/fluent_python)
 
 ![fluent_python](https://github.com/Decalogue/PythonMindmap/blob/master/img/fluent_python/0.png "fluent_python")
-
-### 序幕
-
-### 数据结构
-
-### 把函数视作对象
-
-### 面向对象惯用法
-
-### 控制流程
-
-### 元编程
 
 
 `Copyright © 2017 Rain. All Rights Reserved.`

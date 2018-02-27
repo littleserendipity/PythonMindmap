@@ -1,8 +1,8 @@
 # PythonMindmap
 
-`Learning Python with Mindmap.`
+`Building Your Python Mindmap.`
 
-`用思维导图学 Python`
+`建立你的 Python 思维地图`
 
 ![Python](https://github.com/Decalogue/PythonMindmap/blob/master/img/python.png "Python")
 

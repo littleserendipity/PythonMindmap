@@ -2,7 +2,7 @@
 
 `Building Your Python Mindmap.`
 
-`建立你的 Python 思维地图`
+`建立你的 Python 地图`
 
 ![Python](https://github.com/Decalogue/PythonMindmap/blob/master/img/python.png "Python")
 

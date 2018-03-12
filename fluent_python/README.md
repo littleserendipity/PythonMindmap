@@ -9,3 +9,11 @@
 ## [第8章 对象引用，可变性和垃圾回收 👆](https://github.com/Decalogue/PythonMindmap/blob/master/fluent_python/fluent_python_8.md)
 
 ![fluent_python_8](https://github.com/Decalogue/PythonMindmap/blob/master/img/fluent_python/8.png "fluent_python")
+
+## [第9章 符合 Python 风格的对象 👆](https://github.com/Decalogue/PythonMindmap/blob/master/fluent_python/fluent_python_9.md)
+
+![fluent_python_9](https://github.com/Decalogue/PythonMindmap/blob/master/img/fluent_python/9.png "fluent_python")
+
+## [第10章 序列的修改、散列和切片 👆](https://github.com/Decalogue/PythonMindmap/blob/master/fluent_python/fluent_python_10.md)
+
+![fluent_python_10](https://github.com/Decalogue/PythonMindmap/blob/master/img/fluent_python/10.png "fluent_python")

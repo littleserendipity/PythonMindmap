@@ -6,6 +6,10 @@
 
 ![fluent_python_1](https://github.com/Decalogue/PythonMindmap/blob/master/img/fluent_python/1.png "fluent_python")
 
+## [第7章 函数装饰器和闭包 👆](https://github.com/Decalogue/PythonMindmap/blob/master/notes/fluent_python/fluent_python_7.md)
+
+![fluent_python_7](https://github.com/Decalogue/PythonMindmap/blob/master/img/fluent_python/7.png "fluent_python")
+
 ## [第8章 对象引用，可变性和垃圾回收 👆](https://github.com/Decalogue/PythonMindmap/blob/master/notes/fluent_python/fluent_python_8.md)
 
 ![fluent_python_8](https://github.com/Decalogue/PythonMindmap/blob/master/img/fluent_python/8.png "fluent_python")

@@ -17,10 +17,15 @@
 ### [Python Cookbook](https://github.com/Decalogue/PythonMindmap/tree/master/notes/python_cookbook)
 
 
-## 二、常见笔试/面试题
+## 二、相关推荐
 
+### [算法基础](https://github.com/Decalogue/AlgorithmMap)
 
-## 三、从小白到专家的成长之路
+### [NLP 自然语言处理](https://github.com/Decalogue/NlpMindmap)
+
+### [AI 基础工具集合](https://github.com/Decalogue/ai)
+
+### [AI 比赛](https://github.com/Decalogue/AI_Competition)
 
 
 `Copyright © 2017 Decalogue. All Rights Reserved.`
